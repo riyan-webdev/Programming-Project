@@ -54,9 +54,17 @@ align-items: center;
     border: 0px solid;
     cursor: pointer;
     color: white;
+   
 }
+   
 
+#Riyan :hover{
+    background-color: greenyellow;
+     transition: all 0.1s ease;
+      transform: scale(1.1);
+      box-shadow: 0 10px 20px rgba(210, 7, 132, 0.2);
 
+}
 
 .hero-content{
     padding: 115px ;
@@ -402,4 +410,7 @@ padding: 20px;
 }
 
 
-
+.btn :hover {
+    display: block;
+    filter: drop-shadow(0 0 10px #fffdef);
+}
