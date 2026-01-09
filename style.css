@@ -224,6 +224,72 @@ padding: 20px;
 
 #card-section{
 
-    padding-bottom: 120px;
+    /* padding-bottom: 120px; */
+}
+
+
+
+#main-section{
+    padding: 88px;
+
+}
+
+#main-content{
+
+    display: flex;
+    align-items: center;
+    /* text-align: center; */
+    gap: 60px;
+
+
+}
+
+#main-img{
+
+    height: 500px;
+    width: 500px;
+    border-radius: 12px;
+}
+
+
+#main-div h6{
+
+    font-size: 16px;
+    color: #469165;
+    padding-bottom: 20px;
+}
+
+#main-div h1{
+    font-size: 48px;
+    font-weight: bold;
+    color: #001931;
+    line-height: auto;
+    padding-bottom: 17px;
+}
+
+#main-div-p{
+    color: #627382;
+    font-size: 16px;
+    line-height: ;
+    padding-bottom: 37px;
+}
+
+#dot-div div {
+    display: flex;
+    gap: 7px;
+    line-height: ;
+}
+
+#dot-div div p{
+
+    font-size: 16px;
+    color: #001931;
+    font-weight: bold   ;
+    line-height: 25px;
+}
+
+#dot-div div img{
+    height: 19px;
+    width: 19px;
 }
 
